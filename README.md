@@ -7,17 +7,9 @@
 
 ---
 
-
-# 🔵 Sergio Fernández  
-### Blue Team | Ciberseguridad | OSINT  
-
-![Banner](https://github.com/SeSSio14/SeSSio14/blob/main/Banner.png?raw=true)
-
----
-
 ## 🧠 Sobre mí
 
-Profesional de **ciberseguridad defensiva**, especializado en **Blue Team**, **OSINT** y **análisis de amenazas**.
+Profesional de **Ciberseguridad**, especializado en **Blue Team**, **OSINT** y **Análisis de Amenazas**.
 
 Me enfoco en:
 - 🛡️ Detección y respuesta ante incidentes
