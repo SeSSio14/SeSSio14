@@ -53,12 +53,6 @@ Apasionado por entender **cómo atacan los adversarios** para fortalecer la **de
 
 ---
 
-## 📈 Estadísticas de GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SeSSio14&show_icons=true&theme=dark)
-
----
-
 ## 📂 Repositorios destacados
 
 - 🔍 OSINT tools & scripts  
@@ -69,8 +63,7 @@ Apasionado por entender **cómo atacan los adversarios** para fortalecer la **de
 
 ## 🌐 Encuéntrame en
 
-- 💼 LinkedIn: (https://www.linkedin.com/in/sergiofernandezroyo/)  
-- 🌍 Web / Blog: https://tu-web.com  
+- 💼 LinkedIn: (https://www.linkedin.com/in/sergiofernandezroyo/)   
 
 ---
 
