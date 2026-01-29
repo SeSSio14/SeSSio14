@@ -1,7 +1,7 @@
 # 🔵 Sergio Fernández  
 ### Blue Team | Ciberseguridad | OSINT  
 
-![Banner](./banner.png)
+![Banner]([./banner.png](https://github.com/SeSSio14/SeSSio14/blob/main/Banner.png?raw=true))
 
 ---
 
@@ -53,9 +53,9 @@ Apasionado por entender **cómo atacan los adversarios** para fortalecer la **de
 
 ## 📈 Estadísticas de GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SeSSio14&show_icons=true&theme=dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SeSSio14&layout=compact&theme=dark)
 
 ---
 
