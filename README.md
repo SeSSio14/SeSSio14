@@ -1,7 +1,7 @@
 # 🔵 Sergio Fernández  
 ### Blue Team | Ciberseguridad | OSINT  
 
-![Banner]([./banner.png](https://github.com/SeSSio14/SeSSio14/blob/main/Banner.png?raw=true))
+![Banner](https://github.com/SeSSio14/SeSSio14/blob/main/Banner.png?raw=true)
 
 ---
 
@@ -55,8 +55,6 @@ Apasionado por entender **cómo atacan los adversarios** para fortalecer la **de
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SeSSio14&show_icons=true&theme=dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SeSSio14&layout=compact&theme=dark)
-
 ---
 
 ## 📂 Repositorios destacados
@@ -69,10 +67,9 @@ Apasionado por entender **cómo atacan los adversarios** para fortalecer la **de
 
 ## 🌐 Encuéntrame en
 
-- 💼 LinkedIn: https://linkedin.com/in/tu-perfil  
-- 🐦 X / Twitter: https://x.com/tu-usuario  
+- 💼 LinkedIn: (https://www.linkedin.com/in/sergiofernandezroyo/)  
 - 🌍 Web / Blog: https://tu-web.com  
 
 ---
 
-> *“La mejor defensa empieza con información.”* 🔵
+> 🔵 *“La mejor defensa empieza con buena información para un gran ataque.”* 🔵
